@@ -23,3 +23,13 @@ This project simulates a Smart Bin that automatically opens, detects waste level
    - If the bin is **90% full or more**, the **red LED** turns on, and the lid remains closed.  
 5. The waste level is **sent to ThingSpeak**, where a live chart visualizes the data.  
 
+## Project Links
+
+Wokwi: <u>[Click here](https://wokwi.com/projects/422468464408486913)</u>  
+ThingSpeak:
+1. Go to [ThingSpeak](https://thingspeak.com/).  
+2. Click on **"Channels"** in the navigation bar.  
+3. In the search bar, enter the tag **"SMART BIN"** and click **Submit**.  
+4. Find the channel with **Channel ID: `2834140`** and select it.  
+5. You can now view the Smart Bin data.
+
